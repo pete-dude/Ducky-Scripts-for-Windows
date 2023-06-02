@@ -1,0 +1,4 @@
+GUI r
+DELAY 200
+STRING https://www.youtube.com/watch?v=uHgt8giw1LY
+ENTER

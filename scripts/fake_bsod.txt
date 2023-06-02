@@ -1,0 +1,14 @@
+DELAY 1000
+GUI d
+DELAY 100
+GUI r
+DELAY 200
+STRING http://fakebsod.com/windows-8-and-10
+ENTER
+DELAY 2500
+F11
+DELAY 100
+GUI r
+DELAY 200
+STRING taskkill /f /im explorer.exe
+ENTER
